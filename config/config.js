@@ -1,10 +1,10 @@
 
-import profile from './profile.png';
+import profile from './IMG_3533.png';
 import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-  name: "Hashir",
+  name: "Hedy",
   links: [
     {
       title: "About",
@@ -21,16 +21,12 @@ export const navigation = {
     {
       title: "Links",
       link: "/links",
-    },
-    {
-      title: "Blog",
-      link: "https://medium.com/@hashirshoaeb",
     }
   ],
 }
 export const intro = {
-  title: "Hey, I'm Hashir",
-  description: "A Computer Engineer creating mobile apps and static websites.",
+  title: "Hi, I'm Hedy Song",
+  description: "A sophomore studying Operation Research and Engineering at Cornell University.",
   image: profile.src,
   buttons: [
     {
